@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: 宁波dotnet社区（NBDNC）
+description: 宁波dotnet社区(NingBo DotNet Community)是由宁波本地DotNet技术人自发组织的社区。希望增进技术交流，共同推进宁波本地的IT氛围提升。
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
